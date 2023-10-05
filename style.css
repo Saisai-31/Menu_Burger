@@ -41,7 +41,7 @@ nav ul{
 
 @media screen and (max-width: 650px){
     #icons{
-        display: block;
+        display: block; 
     }
     #icons:before{
         content: "\2630";
